@@ -1,0 +1,7 @@
+C:\Users\anuar\source\repos\DelegateEvent\DelegateEvent\bin\Debug\DelegateEvent.exe.config
+C:\Users\anuar\source\repos\DelegateEvent\DelegateEvent\bin\Debug\DelegateEvent.exe
+C:\Users\anuar\source\repos\DelegateEvent\DelegateEvent\bin\Debug\DelegateEvent.pdb
+C:\Users\anuar\source\repos\DelegateEvent\DelegateEvent\obj\Debug\DelegateEvent.csprojResolveAssemblyReference.cache
+C:\Users\anuar\source\repos\DelegateEvent\DelegateEvent\obj\Debug\DelegateEvent.csproj.CoreCompileInputs.cache
+C:\Users\anuar\source\repos\DelegateEvent\DelegateEvent\obj\Debug\DelegateEvent.exe
+C:\Users\anuar\source\repos\DelegateEvent\DelegateEvent\obj\Debug\DelegateEvent.pdb
